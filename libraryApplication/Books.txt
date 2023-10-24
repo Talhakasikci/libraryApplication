@@ -1,0 +1,9 @@
+  Name                 Author                     types                  ISBN				       year
+Frankenstein         Mary Shelly                   horror               9753854030                     1818
+Dune            	   Frank Herbert          science-fiction             6053754796                     1965
+1984                 George Orwell          science-fiction             9750718533                     1949
+Circe                Madeline Miller               fantasy              6053759584                     2019
+Harry Potter         J.K. Rowling                  fantasy              9750802942                     1997
+The Hunger Games     Suzanne colins                adventure            6054456222                     2008
+A Dance With Dragons    George Martin              adventure            0553385953                     2011
+Dracula              Bram Stoker                   horror               6053242020                     1897
